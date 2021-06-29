@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\snakeandladder.exe
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\snakeandladder.deps.json
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\snakeandladder.runtimeconfig.json
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\snakeandladder.runtimeconfig.dev.json
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\snakeandladder.dll
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\ref\snakeandladder.dll
+C:\Users\user\source\repos\snakeandladder\snakeandladder\bin\Debug\net5.0\snakeandladder.pdb
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.AssemblyInfo.cs
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.dll
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\ref\snakeandladder.dll
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.pdb
+C:\Users\user\source\repos\snakeandladder\snakeandladder\obj\Debug\net5.0\snakeandladder.genruntimeconfig.cache
