@@ -7,7 +7,8 @@ namespace snakeandladder
         public const int ladder = 2;
         public const int snake = 1;
         public const int no_play = 0;
-        public const int position = 0; 
+        public const int position = 0;
+        public const int Win_position = 100;
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Snake and Ladder World");
@@ -17,7 +18,7 @@ namespace snakeandladder
             Random random = new Random();
             int dieInput = random.Next(1, 7);
             int choice = random.Next(1, 3);
-            for(int position = 0; position  <=100; position ++)
+            for(int position = 0; position  <= Win_position; position ++)
             switch (choice)
             {
                 case ladder:
