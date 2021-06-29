@@ -9,6 +9,8 @@ namespace snakeandladder
         static void Main(string[] args)
         {
             int position = 0;
+            Random random = new Random();
+            int deiInput = random.Next(1, 6);
         }
     }
 }
