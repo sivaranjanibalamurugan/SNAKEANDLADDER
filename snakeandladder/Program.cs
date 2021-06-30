@@ -4,35 +4,42 @@ namespace snakeandladder
 {
     class Program
     {
-        public const int ladder = 2;
-        public const int snake = 1;
-        public const int no_play = 0;
-        public const int position = 0;
-       // public const int Win_position = 100;
+        //public const int ladder = 2;
+        // public const int snake = 1;
+        //  public const int no_play = 0;
+        public const int die_RollTime = 0;
+      // public const int Win_position = 100;
+      
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Snake and Ladder World");
             int player = 1;
-           // int position = 0;
-           // int i = position;
+            int position = 0;
+            int dieRoll = 0;
+            int die_RollTime = 0;
+            int Choice= 3;
             Random random = new Random();
-            int dieInput = random.Next(1, 7);
-            //int choice = random.Next(1, 3);
+             Choice = random.Next(1, 3);
+      
+         
             {
-                if (position < 100)
+                if (position > 0)
                 {
-                    Console.WriteLine("move by adding the number ");
+                    position = Choice(Choice, position, dieRoll);
+                    position = position;
+                    Console.WriteLine("Position of player " + (player + 1) + " is : " + position);
                 }
                 else
                 {
-                    Console.WriteLine("stay in the same position");
+                    Console.WriteLine("stay in same position");
                 }
             }
-           
-
-            Console.WriteLine("Player " + player + " is in position " + position + " initially");
+            
+            die_RollTime++;
+            Console.WriteLine("Total number of time die rolled to reach WIN: " + die_RollTime);
             Console.Read();
-        }    
-        
+
+
+        }
     }
 }
